@@ -50,7 +50,7 @@ Criar uma aplicação com React, realizar cálculo de valorização/depreciaçã
 <!-- CONTATO -->
 ## Contato
 
-Ricardp Castro - [LinkedIn Perfil](https://www.linkedin.com/in/ricardo-castro-ahumada/) - ricardocastro.ti@gmail.com
+Ricardo Castro - [LinkedIn Perfil](https://www.linkedin.com/in/ricardo-castro-ahumada/) - ricardocastro.ti@gmail.com
 
 Project Link: [https://github.com/racahumada/igti-React-Juros-Compostos](https://github.com/racahumada/igti-React-Juros-Compostos)
 
