@@ -25,11 +25,11 @@
   <!--- [Prerequisites](#prerequisites)-->
   - [Instalação](#instalação)
 - [Modo de Uso](#modo-de-uso)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Roteiro](#roteiro)
+- [Contribuição](#contribuição)
+<!-- - [License](#license) -->
+- [Contato](#contato)
+<!-- - [Acknowledgements](#acknowledgements) -->
 
 <!-- SOBRE O PROJETO -->
 
@@ -102,7 +102,29 @@ Abrir [http://localhost:3000](http://localhost:3000) para visualizar no navegado
   Exemplo 3 - Responsividade <br />
   <img src="./images/tela-4-%5Bresponsivo%5D.jpg" alt="Design Responsivo" />
 </p>
+
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
+
+<!-- ROTEIRO -->
+## Roteiro
+
+Consulte os [problemas abertos](https://github.com/racahumada/igti-React-Juros-Compostos/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
+
+<!-- CONTRIBUIÇÃO -->
+## Contribuição
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+<!-- ## License
+
+Distributed under the MIT License. See `LICENSE` for more information. -->
 
 <!-- CONTATO -->
 ## Contato
@@ -111,6 +133,12 @@ Ricardo Castro - [LinkedIn Perfil](https://www.linkedin.com/in/ricardo-castro-ah
 
 Project Link: [https://github.com/racahumada/igti-React-Juros-Compostos](https://github.com/racahumada/igti-React-Juros-Compostos)
 
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* []()
+* []()
+* []()
 
 [contributors-shield]: https://img.shields.io/github/contributors/racahumada/igti-React-Juros-Compostos.svg?style=flat-square
 [contributors-url]: https://github.com/racahumada/igti-React-Juros-Compostos/graphs/contributors
