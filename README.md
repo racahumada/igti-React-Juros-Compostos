@@ -21,10 +21,10 @@
 
 - [Sobre o Projeto](#sobre-o-projeto)
   - [Desenvolvido com](#desenvolvido-com)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
+- [Começando](#Começando)
+  <!--- [Prerequisites](#prerequisites)-->
+  - [Instalação](#instalação)
+- [Modo de Uso](#modo-de-uso)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
@@ -34,12 +34,17 @@
 <!-- SOBRE O PROJETO -->
 
 ## Sobre o Projeto
-
 <p>
-  <img src="./images/tela-1-%5Bvazia%5D.jpg" alt="Tela Inicial" style="width: 230px" />
+  Criar uma aplicação com React, realizar cálculo de valorização/depreciação com base em um capital inicial, taxa de juros mensal e quantidade de parcelas mensal, utilizando o conceito de juros compostos.
+</p>
+<p>
+  Foi utilizado o Materialize para o design responsivo.
+</p>
+<p align="center">
+  <img src="./images/tela-1-%5Bvazia%5D.jpg" alt="Tela Inicial" />
 </p>
 
-Criar uma aplicação com React, realizar cálculo de valorização/depreciação com base em um capital inicial, taxa de juros mensal e quantidade de parcelas mensal, utilizando o conceito de juros compostos.
+
 
 ### Linguagens, Frameworks e Bibliotecas
 
@@ -47,27 +52,64 @@ Criar uma aplicação com React, realizar cálculo de valorização/depreciaçã
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Materialize](https://materializecss.com/)
 
+<!-- GETTING STARTED -->
+## Começando
+
+To get a local copy up and running follow these simple steps.
+<!-- 
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+```sh
+npm install npm@latest -g
+```
+-->
+### Instalação
+
+1. Clonar o repositório
+```sh
+git clone https://github.com/racahumada/igti-React-Juros-Compostos
+```
+2. Instalar Pacotes
+```sh
+yarn install
+```
+3. Executar App
+```sh
+yarn start
+```
+Para rodar em modo de desenvolvimento.<br />
+Abrir [http://localhost:3000](http://localhost:3000) para visualizar no navegador
+
+<!-- MODO DE USO -->
+## Modo de Uso
+<p>
+  Campos Disponíveis <br />
+  <strong>Capital Inicial</strong> - Neste campo digite o valor a ser calculado;<br />
+  <strong>Taxa de Juros Mensal</strong> - Neste campo a taxa de juros base;<br />
+  <strong>Período (Mensal)</strong> - Neste campo digitar o período de investimento do valor
+</p>
+<p align="center">
+  Exemplo 1 - Cálculo a juros negativo <br />
+  <img src="./images/tela-2-%5Bjuros-negativo%5D.jpg" alt="Juros Negativo" />
+</p>
+<p align="center">
+  Exemplo 2 - Cálculo a juros positivo <br />
+  <img src="./images/tela-3-%5Bjuros-positivo%5D.jpg" alt="Juros Positivo" />
+</p>
+<p align="center">
+  Exemplo 3 - Responsividade <br />
+  <img src="./images/tela-4-%5Bresponsivo%5D.jpg" alt="Design Responsivo" />
+</p>
+<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
+
 <!-- CONTATO -->
 ## Contato
 
 Ricardo Castro - [LinkedIn Perfil](https://www.linkedin.com/in/ricardo-castro-ahumada/) - ricardocastro.ti@gmail.com
 
 Project Link: [https://github.com/racahumada/igti-React-Juros-Compostos](https://github.com/racahumada/igti-React-Juros-Compostos)
-
-<!--
-## Scripts Disponíveis
-
-No diretório do projeto, você pode executar:
-
-### `yarn install`
-
-Para instalar dependências da aplicação
-
-### `yarn start`
-
-Para rodar em modo de desenvolvimento.<br />
-Abrir [http://localhost:3000](http://localhost:3000) para visualizar no navegador
--->
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/racahumada/igti-React-Juros-Compostos.svg?style=flat-square
