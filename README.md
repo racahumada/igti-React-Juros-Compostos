@@ -27,8 +27,8 @@
 - [Modo de Uso](#modo-de-uso)
 - [Roteiro](#roteiro)
 - [Contribuição](#contribuição)
-<!-- - [License](#license) -->
 - [Contato](#contato)
+<!-- - [License](#license) -->
 <!-- - [Acknowledgements](#acknowledgements) -->
 
 <!-- SOBRE O PROJETO -->
@@ -134,12 +134,13 @@ Ricardo Castro - [LinkedIn Perfil](https://www.linkedin.com/in/ricardo-castro-ah
 Project Link: [https://github.com/racahumada/igti-React-Juros-Compostos](https://github.com/racahumada/igti-React-Juros-Compostos)
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!-- ## Acknowledgements
 
 * []()
 * []()
 * []()
 
+--> 
 [contributors-shield]: https://img.shields.io/github/contributors/racahumada/igti-React-Juros-Compostos.svg?style=flat-square
 [contributors-url]: https://github.com/racahumada/igti-React-Juros-Compostos/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/racahumada/igti-React-Juros-Compostos.svg?style=flat-square
