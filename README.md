@@ -46,6 +46,14 @@ Criar uma aplicação com React, realizar cálculo de valorização/depreciaçã
 - Javascript
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Materialize](https://materializecss.com/)
+
+<!-- CONTATO -->
+## Contato
+
+Ricardp Castro - [LinkedIn Perfil](https://www.linkedin.com/in/ricardo-castro-ahumada/) - ricardocastro.ti@gmail.com
+
+Project Link: [https://github.com/racahumada/igti-React-Juros-Compostos](https://github.com/racahumada/igti-React-Juros-Compostos)
+
 <!--
 ## Scripts Disponíveis
 
