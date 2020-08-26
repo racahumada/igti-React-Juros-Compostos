@@ -15,9 +15,9 @@
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
+<!-- Índice -->
 
-## Table of Contents
+## Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
   - [Desenvolvido com](#desenvolvido-com)
